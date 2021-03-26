@@ -2,7 +2,7 @@
 ### This is Dwaipayan Munshi!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dwaipayan05)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dwaipayan-munshi-110429192/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dwaipayanmunshi2001@gmail.com)
 
 Welcome to my Github page! I am Dwaipayan Munshi, currently a Pre-Final Year student at National Institute of Technology Karnataka finishing my bachelor's.
