@@ -35,4 +35,5 @@ Welcome to my Github page! I am Dwaipayan Munshi, currently a Pre-Final Year stu
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"></code>
 </p>
 
+#### Gladd to See You Here [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwaipayan05&count_bg=%231AD8C3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
