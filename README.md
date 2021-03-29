@@ -11,16 +11,9 @@ Welcome to my Github page! I am Dwaipayan Munshi, currently a Pre-Final Year stu
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Bachelor's Degree
 - Working towards Research Oriented Projects
 - Learning more about Applications of DL in Geomechanics
 - Dabbling with different technologies.
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Contributing to Open Source
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
