@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dwaipayan-munshi-110429192/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dwaipayanmunshi2001@gmail.com)
 
-Welcome to my Github page! I am Dwaipayan Munshi, currently a Pre-Final Year student at National Institute of Technology Karnataka finishing my Bachelor's Degree.
+Welcome to my Github page! I am Dwaipayan Munshi, currently a Final Year student at National Institute of Technology Karnataka finishing my Bachelor's Degree.
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
